@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="hc_max_message_elements_wight">220dp</dimen>
+	<dimen name="hc_small_text_space">3dp</dimen>
+</resources>
